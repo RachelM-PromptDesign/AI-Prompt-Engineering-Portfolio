@@ -12,3 +12,16 @@ After verification:
 2. Classify urgency: [Emergency/Urgent Care/Telehealth]
 3. Output: "Based on symptoms, we recommend: [classification]. Next steps: [action]"
 Constraints: Never diagnose; always recommend professional consultation.
+# Rachel Morrison - AI Prompt Engineering Portfolio
+## Healthcare Workflow Optimization Through AI
+### Core Philosophy  
+> "Structured inputs → reliable outputs: Whether hospital templates or AI prompts, clear parameters prevent errors."
+### Portfolio Highlights
+- [HIPAA-Compliant Chatbot Framework](Healthcare_Prompt_Templates/HIPAA_Chatbot_Prompts.md)  
+- [Vyne Tracker AI Automation](Workflow_Automation/VyneTracker_AI_Conversion.md)  
+- [Clinic Workload Reduction Case Study](Case_Studies/Clinic_Workload_Reduction.md)  
+### Skills Showcased
+- Prompt Engineering • Workflow Design • Constraint-Based AI  
+- HIPAA Compliance • Systems Optimization  
+### Connect  
+[LinkedIn](https://www.linkedin.com/in/rachelmorrisoncyber) | RMorrisonR@outlook.com
