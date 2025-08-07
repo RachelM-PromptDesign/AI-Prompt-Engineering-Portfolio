@@ -1,4 +1,3 @@
-
 #### 2. `Healthcare_Prompt_Templates/Appointment_Scheduling.md`  
 ```markdown
 # Automated Appointment Scheduling Prompt
